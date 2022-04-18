@@ -1,7 +1,7 @@
 # projekt-baza-danych-park-rozrywki
 
 <ins>Autorki: </ins>
-- [Justyna Budzyńska @budzynskaj](https://github.com/budzynskaJ)
+- [Justyna Budzyńska @budzynskaJ](https://github.com/budzynskaJ)
 - [Maria Kujawa @markujawa](https://github.com/markujawa)
 
 
