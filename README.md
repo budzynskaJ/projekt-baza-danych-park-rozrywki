@@ -1,4 +1,4 @@
-# projekt-baza-danych-park-rozrywki
+# Projekt bazy danych Parku Rozrywki
 
 <ins>Autorki: </ins>
 - [Justyna Budzyńska](https://github.com/budzynskaJ)
